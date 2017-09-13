@@ -1,0 +1,88 @@
+
+
+
+/*border-style: solid;
+border-color: black;*/
+
+
+.clock.span{
+
+}
+
+#clockDiv{
+  font-size: 1100%;
+  color: #666666;
+  font-family: Gill Sans;
+  display: block;
+  height:auto;
+  margin:auto auto;
+
+ }
+
+ #clockDivInner{
+   width:1400px;
+   margin: auto auto;
+
+   text-align: center;
+ }
+
+
+#statusBlock{
+    font-size: 300%;
+    color: #EDF1F2;
+    font-family: Gill Sans;
+    display: block;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+
+
+ #currentPeriod{
+   font-size: 250%;
+   padding: 200px 0px 200px 0px;
+   margin-bottom: 0px;
+   margin-right: 0px;
+   font-family: Gill Sans;
+   display: inline;
+
+ }
+
+
+#completedPomosParag{
+  color: #666666;
+  font-size: 250%;
+  display:block;
+  text-align: center;
+  margin-right: 40px;
+  font-family: Gill Sans;
+
+}
+
+#completedPomosDiv{
+  background-color: white;
+
+}
+
+
+#pauseIcon{
+  height:5%;
+  width: 5%;
+  display:block;
+  margin: 45px auto;
+}
+
+#skipPeriodButton{
+  background-color:#ffa366;
+  font-style: italic;
+  font-size: 100%;
+  color: #666666;
+  border-style: solid;
+  border-color: black;
+}
+
+
+body{
+
+  background-color: #ffa366;
+}

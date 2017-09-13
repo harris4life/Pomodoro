@@ -1,0 +1,23 @@
+{
+
+
+	"manifest_version":2,
+	"name":"PomodoroTimer",
+	"description":"Provides a pomodoro Timer for increasing productivity.",
+	"version":"1.0",
+
+
+	"browser_action":{
+
+		"default_title": "Pomodoro",
+		"default_popup":"PomodoroTimer.html",
+		"default_icon":"icon.png"
+	},
+
+	"background": {
+		"scripts":["pomodoro.js"]
+	}
+	
+
+
+}
