@@ -1,5 +1,9 @@
 
 
+
+document.getElementById("body").style.backgroundColor = "#ffa366";
+
+
 const ZERO_SECS = 0;
 const SECS_RESET_VALUE = 59;
 
